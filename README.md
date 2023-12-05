@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hey 👋, This is David Wögerbauer
-[![Gmail Badge](https://img.shields.io/badge/-woegerbauer.david@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:woegerbauer.david@gmail.com)](mailto:woegerbauer.david@gmail.com) [![Github Badge](https://img.shields.io/badge/d-woegerbauer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dwoegerbauer/)](https://www.github.com/d-woegerbauer/) <p align='left'>Hi, I'm a web-developer from upper-austria</p>
+[![Gmail Badge](https://img.shields.io/badge/-woegerbauer.david@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:woegerbauer.david@gmail.com)](mailto:woegerbauer.david@gmail.com) [![Github Badge](https://img.shields.io/badge/d-woegerbauer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dwoegerbauer/)](https://www.github.com/d-woegerbauer/) <p align='left'>Hi, I'm a software engineer from upper-austria with strong knowledge in web development</p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dwoegerbauer alt=dwoegerbauer /> </p>
