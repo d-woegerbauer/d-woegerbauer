@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dwoegerbauer alt=dwoegerbauer /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=d-woegerbauer&show_icons=true&include_all_commits=true)](https://github.com/dwoegerbauer/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-woegerbauer&layout=compact)](https://github.com/dwoegerbauer/github-readme-stats)
+![d-woegerbauer's Stats](https://github-readme-stats.vercel.app/api?username=d-woegerbauer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![d-woegerbauer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-woegerbauer&theme=vue-dark&hide_border=true)
+![d-woegerbauer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-woegerbauer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
